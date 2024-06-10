@@ -1,0 +1,23 @@
+na dysku wstawiac
+lista 8 
+opis raport 2 na dysku
+3 zadania z testowania hippotez
+zadanie 1:
+    wykorzystac dane ze strony txt
+    przetestowac hipoteze 
+    dla kazdego przypadku wyznaczyc statystyke testowa (z?)
+    okreslamy obszary krytyczne narysowac graficznie 
+    wyznaczamy p-wartosc
+    co sie stanie gdy zmniejszymy zwiekszymy obszar krytyczny zmieniajac alpha np 0.01 lub 0.1 (rozn eobszary krytyczne)
+zadanie 2:
+    wykorzystac dane 2 ze strony
+    testowanie hipotez przy ustalonym alpha jak wzczesniej
+    tutaj statystyka testowa inna niz poprzednio na wykladzie bylo
+    reszta taka sama jak wyzej
+zadanie 3:
+    wyznaczamy symulacyjnie monte carlo schematycznie bledy na danyhc z poprzednich zadan 
+umiescic wszystkei definicje wzory
+pamietac o technicznych rzeczach popisywac wszystkie tabele i rysunki odwoływac sie w tekscie do rysunkow 
+kodu nie wrzucamy samego pdf 
+ 
+
