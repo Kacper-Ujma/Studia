@@ -1,0 +1,1 @@
+W interpreterze wynik po wpisaniu x+1 jest równy 6. Jako skrypt ten program nie zadziała, aby go naprawic potrzeba np. zastosowac "print(x+1)"

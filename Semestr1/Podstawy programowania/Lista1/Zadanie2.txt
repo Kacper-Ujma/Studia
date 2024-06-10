@@ -1,0 +1,5 @@
+Szer/2 = 6.5 teraz wynik jest typu float a zmienna szer typu int
+szer/2.0 = 6.5 wynik jest taki sam jak w poprzednim
+wys/3 = 4.0
+znak *5 = '.....'
+znak + 5 wychodzi błąd 
